@@ -1,5 +1,21 @@
 #textarea{
-width: 100%;
+margin-left: 10%;
+width: 80%;
 height: 300px;
-border: 1px solid black;
+}
+.nav {
+ padding-top: 0.5%;
+ padding-bottom: 0.5%;
+ margin-top: 5%;
+ margin-left: 10%;
+ width: 80%;
+}
+textarea {
+ display: none;
+}
+body {
+ background-image: url('http://wallpapers-and-backgrounds.net/wp-content/uploads/2015/10/white-abstract-background_1.jpg');
+}
+.fa-2x{
+ margin-left: 10% !important;
 }
